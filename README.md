@@ -1,2 +1,1 @@
-# TheWebsite
-This is a 📰 Site o_o.
+# Sonic News Archive
